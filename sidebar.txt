@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbl:home|Door43 (cbl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbl|d43-cbl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbl/archive/master.zip|d43-cbl.zip]]
+
+**Recent Changes**
+{{changes>ns = cbl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbl|Ethnologue data]]
+
